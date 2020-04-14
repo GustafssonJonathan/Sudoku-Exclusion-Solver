@@ -1,7 +1,6 @@
 # Sudoku Exclusion Solver
 
-A simple sudoku solver using heuristic rules. It also makes guesses after 
-heuristic rules has been applied and the solver failed to find solution.
+A simple sudoku solver using heuristic rules. It also makes guesses if stuck.
 
 ## Getting Started
 
@@ -15,7 +14,7 @@ Python 3.x with standard libraries
 
 ### Running the solver
 
-´python SudokuSolver.py Compact.txt`
+`python SudokuSolver.py Compact.txt`
 
 ## Author
 
