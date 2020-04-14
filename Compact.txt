@@ -1,0 +1,20 @@
+92..5....
+54.......
+3.7...1..
+.......2.
+2.....8.3
+..4.3.5.7
+....954.2
+.5......9
+.9..147.8
+
+Number of Givens: 27
+Number of Singles: 50
+Number of Hidden Singles: 4
+Number of Naked Pairs: 0
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 0
+Number of Box/Line Intersections: 0
+Number of Guesses: 0
+Number of Backtracks: 0
+Difficulty: Easy

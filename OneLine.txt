@@ -1,0 +1,11 @@
+.....43..5.4.....6.3.86....4...38.......7.5...83.9......5..62.8.485.3.9.9........
+Number of Givens: 26
+Number of Singles: 78
+Number of Hidden Singles: 28
+Number of Naked Pairs: 1
+Number of Hidden Pairs: 0
+Number of Pointing Pairs/Triples: 3
+Number of Box/Line Intersections: 1
+Number of Guesses: 8
+Number of Backtracks: 12
+Difficulty: Expert
